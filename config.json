@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "FastAPI and SQLite Persistence",
+      "description": "Persist FastAPI CRUD data in SQLite using parameterized SQL and verify data survives server restarts.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
