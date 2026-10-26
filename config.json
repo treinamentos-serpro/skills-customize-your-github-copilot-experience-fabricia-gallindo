@@ -86,6 +86,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-authentication-authorization",
+      "title": "FastAPI Authentication and Authorization",
+      "description": "Add Bearer token authentication, JWT validation, password hashing, and role-based access control to a FastAPI application.",
+      "path": "assignments/fastapi-authentication-authorization",
+      "dueDate": "2026-11-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
